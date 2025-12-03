@@ -1,0 +1,70 @@
+<layouts xmlns="http://www.garmin.com/xml/connectiq">
+
+    <layout id="CheckInLayout">
+
+        <label
+            id="titleLabel"
+            x="center"
+            y="20"
+            text="Hormone Check In"
+            justification="center" />
+
+        <label
+            id="dizzinessLabel"
+            x="10"
+            y="60"
+            text="Dizziness (0-10)" />
+
+        <numericPicker
+            id="dizzinessPicker"
+            x="140"
+            y="50"
+            width="80"
+            height="40"
+            min="0"
+            max="10"
+            step="1" />
+
+        <label
+            id="vertigoLabel"
+            x="10"
+            y="100"
+            text="Vertigo (0-10)" />
+
+        <numericPicker
+            id="vertigoPicker"
+            x="140"
+            y="90"
+            width="80"
+            height="40"
+            min="0"
+            max="10"
+            step="1" />
+
+        <label
+            id="hotFlashLabel"
+            x="10"
+            y="140"
+            text="Hot Flash (0-10)" />
+
+        <numericPicker
+            id="hotFlashPicker"
+            x="140"
+            y="130"
+            width="80"
+            height="40"
+            min="0"
+            max="10"
+            step="1" />
+
+        <button
+            id="saveButton"
+            x="center"
+            y="190"
+            width="120"
+            height="40"
+            text="Save" />
+
+    </layout>
+
+</layouts>
