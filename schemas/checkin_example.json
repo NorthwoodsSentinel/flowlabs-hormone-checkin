@@ -1,0 +1,29 @@
+{
+  "user_id": "example_user",
+  "device_id": "garmin_device_001",
+  "timestamp_utc": "2025-01-01T12:00:00Z",
+  "checkin_type": "scheduled",
+  "cycle_day": null,
+  "is_estradiol_day": false,
+  "took_antiviral": false,
+
+  "dizziness": 0,
+  "vertigo": 0,
+  "headache": 0,
+  "nausea": 0,
+  "sugar_sensitivity": 0,
+  "sensory_overload": 0,
+  "fatigue": 0,
+  "emotional_sensitivity": 0,
+
+  "hot_flash_intensity": 0,
+  "hot_flash_duration": "none",
+  "nightly_skin_temp": 0.0,
+
+  "high_sugar_food": false,
+  "possible_gluten_crosscontact": false,
+  "strong_odors": false,
+  "long_client_block": false,
+
+  "notes": ""
+}
