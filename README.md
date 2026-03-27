@@ -132,3 +132,11 @@ It is a personal research and pattern-finding tool designed to explore how:
 line up with wearable data from Garmin devices.
 
 Always consult qualified professionals for medical and mental health concerns.
+
+---
+
+## Northwoods Sentinel Labs
+
+Part of the [Northwoods Sentinel Labs](https://northwoodssentinel.com) ecosystem — open-source tools for human-centered AI.
+
+[Blog](https://northwoodssentinel.com) · [Substack](https://substack.com/@chewvala) · [GitHub](https://github.com/NorthwoodsSentinel)
